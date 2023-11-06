@@ -9,7 +9,7 @@ import pic2 from "../../assets/img/pic2.png";
 import pic3 from "../../assets/img/pic3.png";
 import logo1 from "../../assets/img/logo1.png";
 import logo2 from "../../assets/img/logo2.png";
-import logo3 from "../../assets/img/logo2.png";
+import logo3 from "../../assets/img/logo1.png";
 import logo4 from "../../assets/img/logo4.png";
 import logo5 from "../../assets/img/logo5.png";
 import Image from "next/image";
